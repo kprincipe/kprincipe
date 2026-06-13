@@ -2,6 +2,7 @@
 <div>
   <img src="c.png" width="64" />
   <img src="cpp.png" width="64" />
+  <img src="asm" width="64" />
 </div>
 
 <!--
