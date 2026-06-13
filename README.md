@@ -1,4 +1,8 @@
 ## Hi there 👋
+<div>
+  <img src="c.png" width="64" />
+  <img src="cpp.png" width="64" />
+</div>
 
 <!--
 **kprincipe/kprincipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
