@@ -1,5 +1,5 @@
 ## 🔭✨
-&emsp;_Programador_ e _Artista_ graduando _Tecnologia em Análise e Desenvolvimento de Sistemas_ pelo _Instituto Federal do Amazonas_.<br>
+&emsp;<ins>**_Programador_**</ins> e <ins>**_Artista_**</ins> graduando _Tecnologia em Análise e Desenvolvimento de Sistemas_ pelo _Instituto Federal do Amazonas_.<br>
 
 &emsp;Tenho interesse em programação de _baixo nível_, _compiladores_, _emuladores_ 🎮 e pedaços de hardware antigos e obsoletos 💾 mas ainda com grande potencial.<br><br>
 > _**Linguagens que melhor domino!**_
